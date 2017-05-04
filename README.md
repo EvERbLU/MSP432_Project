@@ -1,1 +1,3 @@
 # MSP432_Project
+This project is about the study of Real – Time Operating System on Texas Instruments MSP432 microcontroller. The RTOS used for the study is TI – RTOS, TI – RTOS comprises of basic system software functions. TI – RTOS ranges from real – time multitasking kernel TI – RTOS Kernel also known as SYS/BIOS to protocol stacks, multicore functions and communications, device drivers and power management.
+I have demonstrated the concept of RTOS using an Example project involving two onboard push button switches and a Liquid Crystal Display (LCD) communicates using SPI protocol. The development is done on Code Composer Studio (CCS) IDE and on TI Cloud Development site: CCS cloud.
